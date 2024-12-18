@@ -1,0 +1,5 @@
+cd build 
+>cmake..
+>make
+>./pcl_project
+ by #the_Rk.
